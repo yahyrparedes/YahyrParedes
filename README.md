@@ -11,7 +11,8 @@
     <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" />
   </p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=+5+Años+de+Experiencia;Apasionado+por+los+Desafíos;Software+Engineer+%7C+Security+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=%2B5+A%C3%B1os+de+Experiencia;Apasionado+por+los+Desaf%C3%ADos;Software+Engineer+%7C+Security+Lover" alt="Typing SVG" />
+
 </div>
 
 ---
