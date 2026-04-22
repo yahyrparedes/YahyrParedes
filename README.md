@@ -17,31 +17,43 @@
 
 ---
 
-<h2 align="center">💡 Problem Solver 💡</h2>
+<h2 align="center"> Problem Solver </h2>
 
-<table>
+<!-- <table style="border: none; border-collapse: collapse;">
   <tr>
-    <td width="60%" valign="top">
+    <td width="60%" valign="top" style="border: none;">
       <p>
         Como <b>T-Shaped Developer</b> y <b>Swiss Army Knife Engineer</b>, me conocen como el desarrollador al que llamas cuando el proyecto no puede fallar. Mi especialidad no es un lenguaje, es la <b>resolución de problemas complejos</b>. No importa el stack, el estado del código o la presión del tiempo: mi compromiso es aprender lo que sea necesario para entregar soluciones robustas y completar la misión. Soy un <b>tecnólogo agnóstico</b> enfocado en resultados.
       </p>
     </td>
-    <td width="40%" align="center">
+    <td width="40%" align="center" style="border: none;">
       <img src="https://github.com/yahyrparedes/YahyrParedes/raw/main/YapaGood.png" width="200" style="border-radius: 10%;" alt="Yahyr Paredes" />
     </td>
   </tr>
-</table>
+</table> -->
+<div style="display: flex; align-items: center; gap: 20px;">
+  <div style="flex: 3;">
+    <p>
+      Como <b>T-Shaped Developer</b> y <b>Swiss Army Knife Engineer</b>, me conocen como el desarrollador al que llamas cuando el proyecto no puede fallar. Mi especialidad no es un lenguaje, es la <b>resolución de problemas complejos</b>. No importa el stack, el estado del código o la presión del tiempo: mi compromiso es aprender lo que sea necesario para entregar soluciones robustas y completar la misión. Soy un <b>tecnólogo agnóstico</b> enfocado en resultados.
+    </p>
+  </div>
+  <div style="flex: 2; text-align: center;">
+    <img src="https://github.com/yahyrparedes/YahyrParedes/raw/main/YapaGood.png" width="200" style="border-radius: 10%;" />
+  </div>
+</div>
 
 ---
  
 ### 🧵 The "Software Journey" Thread
 > **Yahyr Paredes** @yahyrparedes · 1h  
-> 🚀 +5 años transformando ideas en código. De Android XML a KMP, y de Java Monolitos a Microservicios en Go. ¡Aquí un resumen de mi stack! 👇
+> 🚀 +5 años transformando ideas en código. De Android XML a KMP, y de Java Monolitos a Microservicios en Go. ¡Aquí un resumen de mi stack!  
 
 ---
 
 ### 🛠️ Backend & Cloud 
-```bash
+
+<img src="https://i.imgur.com/FV5yiOy.png" alt="Yahyr Paredes | Backend Software" width="100%"/> 
+<!-- ```bash
 $ whoami
 > Yahyr Paredes Arteaga | Software Developer
 $ ls -l experience/backend
@@ -55,7 +67,7 @@ $ cloud-status --provider all
 > GCP: Cloud Run, Cloud SQL, App Engine, Pub/Sub
 $ security-check --deep
 > OWASP Top 10, Ethical Hacking, Data Encryption (Custom Django ORM)
-```
+``` -->
 
 <div align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
@@ -67,10 +79,10 @@ $ security-check --deep
 
 ---
 
-### 📱 Mobile Development 
+### Mobile Development 
 > **Yahyr Paredes** @yahyrparedes · 45m  
-> 📱 ¿Sabías que pasé de Android XML (MVP) a **Jetpack Compose** y ahora **Kotlin Multiplatform (KMP)**?  
-> 🧵 He trabajado en apps de alto impacto como **Starbucks Perú** y sistemas de seguridad con **BLE Beacons** en Kwema. 
+> ¿Sabías que pasé de Android XML (MVP) a **Jetpack Compose** y ahora **Kotlin Multiplatform (KMP)**?  
+> He trabajado en apps de alto impacto como **Starbucks Perú** y sistemas de seguridad con **BLE Beacons** en Kwema. 
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/nandofreitas/nandofreitas/main/android-logo.gif" width="40" />
@@ -82,29 +94,29 @@ $ security-check --deep
 </div>
 
 **Highlights:**
-- 🛡️ **Security First:** Implementación de **DexGuard** y **R8** para protección de código.
-- 📊 **Observability:** Instrumentación con **New Relic**, **Firebase** y **GTM**.
-- ⚡ **Performance:** Animaciones complejas y optimización de lifecycle.
-- 🔗 **IoT:** Integración con **Bluetooth Low Energy (BLE)** para wearables y pánico.
+- **Security First:** Implementación de **DexGuard** y **R8** para protección de código.
+- **Observability:** Instrumentación con **New Relic**, **Firebase** y **GTM**.
+- **Performance:** Animaciones complejas y optimización de lifecycle.
+- **IoT:** Integración con **Bluetooth Low Energy (BLE)** para wearables y pánico.
 
 ---
 
-### 💼 Featured Projects (LinkedIn Style)
-**🚀 Starbucks Rewards Perú (Delosi)**  
+### Featured Projects (LinkedIn Style)
+**Starbucks Rewards Perú (Delosi)**  
 *Mobile Team - Android/KMP*  
 Desarrollo de la nueva versión usando **KMP**, **Compose** y **SwiftUI**. Implementación de seguridad con **DexGuard** y consumo de servicios con **Ktor**.
 
-**🛡️ Arquitectura & Core Backend (Interseguro)**  
+**Arquitectura & Core Backend (Interseguro)**  
 *Backend Engineer - SQUAD Nuevas Iniciativas / SOAT*  
 Lideré la definición de arquitectura y desarrollo de microservicios críticos en **Golang** (Fiber, GORM) y **Java Spring Boot**. Implementé sistemas de procesamiento batch, generación de PDFs cifrados y wallets móviles, logrando optimizar el performance y la escalabilidad de productos con alto volumen de ventas. Instrumentación completa con **New Relic** y despliegue en **GCP (Cloud Run)**.
 
-**🛡️ Workplace Safety (Kwema Inc)**  
+**Workplace Safety (Kwema Inc)**  
 *Software Engineer*  
 Reescritura completa de la app usando **Compose** e integración con **IBeacons** para alertas de seguridad en tiempo real.
 
 ---
 
-### 📊 GitHub Stats & Activity
+### GitHub Stats & Activity
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yahyrparedes&show_icons=true&theme=tokyonight&count_private=true" alt="Yahyr's GitHub stats" />
   <!--img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahyrparedes&layout=compact&theme=tokyonight" alt="Top Langs" /-->
@@ -112,7 +124,7 @@ Reescritura completa de la app usando **Compose** e integración con **IBeacons*
 
 ---
 
-### 🤝 Let's Connect!
+### Let's Connect!
 <div align="center">
   <a href="https://www.linkedin.com/in/yahyrparedes/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
