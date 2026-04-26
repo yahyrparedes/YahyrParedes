@@ -98,6 +98,7 @@ $ security-check --deep
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
  </div>
 
+
 **Highlights:**
 
 - **Security First:** Implementación de **DexGuard** y **R8** para protección de código.
@@ -107,7 +108,7 @@ $ security-check --deep
 
 ---
 
-### Featured Projects (LinkedIn Style)
+### Featured Projects 
 
 **Starbucks Rewards Perú (Delosi)**  
 *Mobile Team - Android/KMP*  
